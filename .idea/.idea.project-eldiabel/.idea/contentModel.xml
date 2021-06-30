@@ -14,10 +14,20 @@
           <e p="Extensions" t="Include">
             <e p="GameObjectExtensions.cs" t="Include" />
           </e>
+          <e p="LightingPreset.cs" t="Include" />
           <e p="SimpleCameraController.cs" t="Include" />
           <e p="Util" t="Include">
             <e p="MiscUtil.cs" t="Include" />
             <e p="SingletonBehaviour.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Supercyan Free Forest Sample" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="Legacy" t="Include">
+              <e p="CelShader.shader" t="Include" />
+            </e>
+            <e p="SupercyanShader.shader" t="Include" />
+            <e p="SupercyanShaderLighting.cginc" t="Include" />
           </e>
         </e>
         <e p="TutorialInfo" t="Include">
